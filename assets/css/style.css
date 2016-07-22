@@ -1,0 +1,109 @@
+#container {
+	background-image: url('../images/bknd.png');
+	padding: 0px;
+	margin: 0px;
+}
+
+#header {
+	
+	padding: 0px;
+	margin: 0px;
+}
+
+
+h1 {
+	font-family: Helvetica, serif;
+	font-size: 70px;
+	letter-spacing: 10px;
+	text-align: center;
+	color: white;
+}
+
+h2 {
+	font-family: Helvetica, serif;
+	font-size: 45px;
+	color: white;
+}
+
+h3 {
+	font-family: Helvetica, serif;
+	font-size: 45px;
+	color: white;
+}
+
+p {
+	font-family: Helvetica, sans-serif;
+	font-size: 20px;
+	padding-left: 10px;
+	color: white;
+}
+
+
+#instructions {
+	
+	margin: 20px;
+
+}
+
+#crystals {
+	text-align: center;
+	
+	padding: 20px;
+	background-image: url('../images/bknd.png');
+
+}
+img.crystalImage {
+	width: 150px;
+	height: 150px;
+	align-items: left;
+}
+
+#row1 {
+	background-image: url('../images/bknd.png.png');
+}
+
+#row2 {
+	
+}
+
+#win-title, #loss-title {
+	
+	text-align: center;
+	color: white;
+}
+
+#win, #loss {
+	
+	text-align: center;
+	color: white;
+	font-family: Times, serif;
+	font-size: 70px;
+	letter-spacing: 10px;
+	text-align: center;
+	color: white;
+}
+
+#goal-number-title {
+	
+	text-align: center;
+}
+
+#goal-number {
+	
+	text-align: center;
+	font-size: 80px;
+	color: white;
+}
+
+#counter-title {
+	
+	text-align: center;
+	color: white;
+}
+
+#counter {
+	
+	text-align: center;
+	font-size: 80px;
+	color: white;
+}
